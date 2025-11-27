@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:107,stream.mpd
+#EXTVLCOPT:network-caching=1000
+https://canal10.ddns.net/dash/stream.mpd
