@@ -13,7 +13,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764249452/ei/D
 
 #EXTM3U
 #EXTINF:-1 tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/2560px-A24_%282025%29.svg.png",A24
-https://g4.mc-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8?sense=true
+https://g4.mc-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
+
 
 
 
