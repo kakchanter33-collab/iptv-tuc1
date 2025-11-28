@@ -18,8 +18,20 @@ https://g2.mc-slo.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_5
 #EXTINF:-1, tvg-id="" tvg-name="America tv" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",America tv
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/0ed65408-8e5b-4480-9927-59fccf7abd8a:SCL2/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
 
+#EXTINF:-1, tvg-id="" tvg-name="Canal 26" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 
+#EXTINF:-1, tvg-id="" tvg-name="El Trece" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3/mono.m3u8
 
+#EXTINF:-1, tvg-id="" tvg-name="Telefe" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",Telefe
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1764450910~acl=%2f*~data=hdntl~hmac=ded556a7402cc690318c4efccde5670ab4497566a83ccc3d42a77f8d2405dc5b/master-mtlf.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-name="Tn" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",Tn
+https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-name="Canal 9" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",Canal 9
+https://7bca29df4f20.j.cloudfront.hls.ttvnw.net/v1/segment/CogD75GnFrQnzqGK89r4PZf65Qg55uefZL3VByX6zs7jYmMIWpFAXTD_hFklq8Oq0aRqO667du70IcumNekLUgXuLs-K208B25KlJqJQR2s7O-8Ejk64q1yB16ykP8fcpaA3mgtPXXiZEZbyuhkQop0hJOfJJA-Rsj34PSJSEsriqSKg14mnQ1r4R2_NtPM1RqjN6gFde10KiZPG52uliXR7hF8nMg9K4bv7DiTwjNv3C3iM41zaUHA8BaOODXlmyYQC9n7ouL9kFaUS24r_38UtO_D8mzTfmMRVo9u714M4z3iM7xl75ZoSt2MDoIXs0LtcXMq7yi8LRp82ODAKKiu0RxBTuuDyZjqcJN4pFbanrOC21SYFCAj4Mmpydm3ljOewXSwmSt7J6_0N_weV-wFh7rk6IfIR0cdSLp3q-14J91Irnr7gLn4gfmJHcQOosgMq2V6mTiS6JkML0r6y49XDr2JC94W0o2wLuGEXqk3zvfLRmEpXy6hXezBoEk-2fWKWUCQJF6O0f5YaDNNboXPBEdcIDRgEsiABKgl1cy1lYXN0LTIw6A0.ts?dna=CmA9NgZfMrLV7JIzOTK-3CBXA-rZJofkoAHeaZBtg4I353kxYA1xweeoE4BuIBC2vrZYgKaTQgdUHCBffLcDJZPIxmb10FOnSgwxfv0Qt-TpVrzJZ_98QlBxmZdnv3Cath0aDHHXrTR1FexPUN0TUSABKgl1cy1lYXN0LTIw6A0
 
 
 
