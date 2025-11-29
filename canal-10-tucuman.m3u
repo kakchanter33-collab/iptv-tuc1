@@ -12,7 +12,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764478676/ei/d
 
 #EXTINF:30,Todo Noticias - TN EN VIVO - SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS
 #EXTVLCOPT:network-caching=1000
-https://tn.com.ar/envivo/24hs/?_escaped_fragment_=&gclid=EAIaIQobChMIzpGB152B9AIVCZyzCh28PgTbEAAYAiAAEgIRWPD_BwE#!
+https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
+
 
 #EXTINF:-1, tvg-id="0222" tvg-name="A24" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",A24
 https://g2.mc-slo.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8
@@ -40,6 +41,7 @@ https://sae12.playlist.ttvnw.net/v1/playlist/Cs0Gm-ie1SPzOS7SIKjuEGZBlDuwIrdL5I7
 
 #EXTINF:-1, tvg-id="" tvg-name="tv publica" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",tv publica
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+
 
 
 
