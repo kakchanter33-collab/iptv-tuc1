@@ -21,7 +21,7 @@ https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/0ed6540
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="El Trece" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v1/mono.m3u8
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="Telefe" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",Telefe
 https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1764450910~acl=%2f*~data=hdntl~hmac=ded556a7402cc690318c4efccde5670ab4497566a83ccc3d42a77f8d2405dc5b/master-mtlf.m3u8
@@ -37,6 +37,7 @@ https://7bca29df4f20.j.cloudfront.hls.ttvnw.net/v1/segment/CogD75GnFrQnzqGK89r4P
 
 #EXTINF:-1, tvg-id="" tvg-name="tv publica" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",tv publica
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+
 
 
 
