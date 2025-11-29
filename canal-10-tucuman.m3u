@@ -11,7 +11,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764478676/ei/d
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
+https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/3a46c0a6-afda-46d5-8364-1ef321ceb47f:SCL2/variant/b2110a06d9c5deb07fe7bc0b6b2f18cf/bandwidth/1680800.m3u8
 
 
 #EXTINF:-1, tvg-id="0222" tvg-name="A24" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",A24
@@ -40,6 +40,7 @@ https://sae12.playlist.ttvnw.net/v1/playlist/Cs0Gm-ie1SPzOS7SIKjuEGZBlDuwIrdL5I7
 
 #EXTINF:-1, tvg-id="" tvg-name="tv publica" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",tv publica
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+
 
 
 
