@@ -30,8 +30,8 @@ https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=
 #EXTINF:-1, tvg-id="" tvg-name="Tn" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",Tn
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="Tn" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",Tn
-https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080__385797.ts
+#EXTINF:-1, tvg-id="" tvg-name="Tn noticias" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",Tn noticias
+https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/5c0db005-16e0-4580-855c-8a6e07995edf:SCL2/variant/f3819a034ffef8a72ee6050fd1af1802/bandwidth/3990800.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="Canal 9" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",Canal 9
 https://7bca29df4f20.j.cloudfront.hls.ttvnw.net/v1/segment/CogD75GnFrQnzqGK89r4PZf65Qg55uefZL3VByX6zs7jYmMIWpFAXTD_hFklq8Oq0aRqO667du70IcumNekLUgXuLs-K208B25KlJqJQR2s7O-8Ejk64q1yB16ykP8fcpaA3mgtPXXiZEZbyuhkQop0hJOfJJA-Rsj34PSJSEsriqSKg14mnQ1r4R2_NtPM1RqjN6gFde10KiZPG52uliXR7hF8nMg9K4bv7DiTwjNv3C3iM41zaUHA8BaOODXlmyYQC9n7ouL9kFaUS24r_38UtO_D8mzTfmMRVo9u714M4z3iM7xl75ZoSt2MDoIXs0LtcXMq7yi8LRp82ODAKKiu0RxBTuuDyZjqcJN4pFbanrOC21SYFCAj4Mmpydm3ljOewXSwmSt7J6_0N_weV-wFh7rk6IfIR0cdSLp3q-14J91Irnr7gLn4gfmJHcQOosgMq2V6mTiS6JkML0r6y49XDr2JC94W0o2wLuGEXqk3zvfLRmEpXy6hXezBoEk-2fWKWUCQJF6O0f5YaDNNboXPBEdcIDRgEsiABKgl1cy1lYXN0LTIw6A0.ts?dna=CmA9NgZfMrLV7JIzOTK-3CBXA-rZJofkoAHeaZBtg4I353kxYA1xweeoE4BuIBC2vrZYgKaTQgdUHCBffLcDJZPIxmb10FOnSgwxfv0Qt-TpVrzJZ_98QlBxmZdnv3Cath0aDHHXrTR1FexPUN0TUSABKgl1cy1lYXN0LTIw6A0
@@ -39,6 +39,7 @@ https://7bca29df4f20.j.cloudfront.hls.ttvnw.net/v1/segment/CogD75GnFrQnzqGK89r4P
 #EXTM3U
 #EXTINF:-1, tvg-id="" tvg-name="tv publica" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",tv publica
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+
 
 
 
