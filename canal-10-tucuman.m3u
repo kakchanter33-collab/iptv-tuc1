@@ -7,9 +7,14 @@ https://canal10.ddns.net/dash/stream.mpd
 #EXTVLCOPT:network-caching=1000
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764478676/ei/dHorafXAHOK0nOAP35jNYQ/ip/181.224.223.139/id/b4X7InUxnAI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5SYYWPZK1PA7InOVya6GNjVfbwbKwvQPaRas4gA7iXMWe5Hjjvj6VpONOo1y0nfUpzTr9XUpbz1/spc/6b0G_KOUyJnu0-TJlIwhCo1aUNlhHyA1v6qFSLHgbSQatBunc64WOQtZRl-XMOFiXNY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGoNtOQ-f8sFjhYa8w9Foy0IsTYWi92OEt5MHeQDy6_oCIAjrRDjDeD2BKg0IWZryRXzMqJsgks8_Qubscl-QK8pK/file/index.m3u8
 
-#EXTINF:30,tvg-logo="tn-1.jpg",TN NOTICIAS EN VIVO
+#EXTINF:30,tvg-logo="tn-1.png",TN NOTICIAS EN VIVO
 #EXTVLCOPT:network-caching=1000
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764482642/ei/8okrae2KDN_8-LAPpcexyQk/ip/181.224.223.139/id/cb12KmMMDJA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QrcoR7Qk4-0xGz5Qs1uS8wERxirYuCR3xNUzHk-crEEPhs9kz0X8I0lrSd-N3Lgwgdq2fhOD2b/spc/6b0G_ISnRqwS79ITuR61GksrLGPTYGexuyrZpPfFRVqyRb4FfU17B6VdCodh0FAXuIs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgRRHf4lorZJk5kOWo-4P7Ii7BIlsI2gEEmUtD6CqH3eECIGN5iRFgslFCsjM_y_U7zZPvsI2sgZBwMeSwhtZpYFA0/file/index.m3u8
+
+#EXTINF:30,tvg-logo="https://ute.org.ar/wp-content/uploads/2016/05/tn-1.jpg",TN NOTICIAS EN VIVO
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764482642/ei/8okrae2KDN_8-LAPpcexyQk/ip/181.224.223.139/id/cb12KmMMDJA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QrcoR7Qk4-0xGz5Qs1uS8wERxirYuCR3xNUzHk-crEEPhs9kz0X8I0lrSd-N3Lgwgdq2fhOD2b/spc/6b0G_ISnRqwS79ITuR61GksrLGPTYGexuyrZpPfFRVqyRb4FfU17B6VdCodh0FAXuIs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgRRHf4lorZJk5kOWo-4P7Ii7BIlsI2gEEmUtD6CqH3eECIGN5iRFgslFCsjM_y_U7zZPvsI2sgZBwMeSwhtZpYFA0/file/index.m3u8
+
 
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
@@ -43,6 +48,7 @@ https://sae12.playlist.ttvnw.net/v1/playlist/Cs0Gm-ie1SPzOS7SIKjuEGZBlDuwIrdL5I7
 
 #EXTINF:-1, tvg-id="" tvg-name="tv publica" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",tv publica
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+
 
 
 
