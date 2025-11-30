@@ -28,7 +28,7 @@ https://g2.mc-slo.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_5
 #EXTINF:-1, tvg-id="" tvg-name="America tv" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",America tv
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/0ed65408-8e5b-4480-9927-59fccf7abd8a:SCL2/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="Canal 26" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",Canal 26
+#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/legacy/2016/CANAL-26.jpg" tvg-id="" tvg-name="Canal 26",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="El Trece" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",El Trece
@@ -43,11 +43,12 @@ https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="Tn noticias" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",Tn noticias
 https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/5c0db005-16e0-4580-855c-8a6e07995edf:SCL2/variant/f3819a034ffef8a72ee6050fd1af1802/bandwidth/3990800.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="Canal 9" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",Canal 9
+#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/05/elnuevelogo.jpg" tvg-id="" tvg-name="Canal 9",Canal 9
 https://sae12.playlist.ttvnw.net/v1/playlist/Cs0Gm-ie1SPzOS7SIKjuEGZBlDuwIrdL5I7hqS8Mu5a5p_PMQF4q3Pg3GgABlDQtsmER5GVxzh60CdoYWkmE6SgAY-MdxZye5-qEBlUwxu1tFIwLYWj2-QIKsqZWl-dgnHlZxLgPAjTISYhb7wiSOb116SF5MonOxkuP3TnrRL4EpR4eZf_PsZ5rB6SYbOKmsOVpc4FgRwYaYPd4ywpQMJIaOAD_Z9JuXfGVU64n_NI-jdDCAkm0v1zyGThnSl_dOkLcHgSlNH4aquCgMI5BZSL989_i0yQIc6Zmy57DeF8pj87ZfNxksplL6E8rwSKVSMLU5R7JslScfqUaoHFEXFPqWolEgARQWmlhrTbYkbr6zojQlRXsZLzgc7txlPOTltBnziDFkOetGTGZIDcxbxRQrxs3_xw-pFTy7bsjlebMXh1lfo_NUAJzfwTIMv9HeXSmzisgy_dh5y-akvehbAXkCPigD4pZWjBjYipqYlKXemgHwLs3AZJiB7TfCw8ykWWnRPnjo95ciIBmA0LCBrqhKlMczCovI9jMy7DJkdTVWU-kCvI1LwzY5XETH_6NzUv-CCDsg30ghhyUNA1tG92LPWxqmFM9Wh9vdhQK8h5NL8oT2GgK8pxkooJLduKYTT1je7v_cT6p74A86g2fn8lMgh2BFwNb8Qcla7loUjBTnabiuFNLOj-Mpi6jTW1FaYPgWfAOZ0ItxCiTpVbQteKJfS4nWEElUe9NMHoqRahfGu9BD-N9R83lb37Ufb8StJo09wL_y93qUHEOxUu38jcqlN0YHKUGmraNXZ7indtDL6H3oxa84WLZRURMFzvE45XSDPgbxAtA_xv-gaapM-kBx6wDNuFCNRhPQ3XcmKkQ5xh3g6xWtI4Wpi-BjVUZuQSL5rxrgykdg2HMBQ1APNW0xvT62QXofegcq-blK1ekwOrkyRwLHXgF7GkHlobKqqozc7Ty4bVJEx_Lc0W8yZba6pMydXMP6TBcMsozk-aXGPVDDON92AEs9gVrFwROFz1bDpq0cGuLyde6yxQwHDkysnSxxf18Hpkkg1AWkuzMZCiy8VzMR0HbqYawe58HL4K7OgnHVt39axWgkxMCjvJryMHdHwVaEBbpN5oEU5QaDJ4jzCFeKdBJ8XQaQiABKgl1cy1lYXN0LTIw6A0.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="tv publica" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",tv publica
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/TV_Publica.svg/512px-TV_Publica.svg.png" tvg-id="" tvg-name="tv publica",tv publica
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+
 
 
 
