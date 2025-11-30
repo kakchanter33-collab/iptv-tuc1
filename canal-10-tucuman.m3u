@@ -22,7 +22,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764482642/ei/8
 https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/3a46c0a6-afda-46d5-8364-1ef321ceb47f:SCL2/variant/b2110a06d9c5deb07fe7bc0b6b2f18cf/bandwidth/1680800.m3u8
 
 
-#EXTINF:-1, tvg-id="0222" tvg-name="A24" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",A24
+#EXTINF:-1 tvg-logo="https://media.telebajocero.com/p/0a74d89bf3953fa03c38d05fc11e0739/adjuntos/225/imagenes/000/931/0000931459/1200x0/smart/a24-programajpg.jpg" tvg-id="0222" tvg-name="A24",A24
 https://g2.mc-slo.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="America tv" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",America tv
@@ -48,6 +48,7 @@ https://sae12.playlist.ttvnw.net/v1/playlist/Cs0Gm-ie1SPzOS7SIKjuEGZBlDuwIrdL5I7
 
 #EXTINF:-1, tvg-id="" tvg-name="tv publica" tvg-logo="https://es.wikipedia.org/wiki/Archivo:A24_%282019-1%29.png",tv publica
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+
 
 
 
